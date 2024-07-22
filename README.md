@@ -115,7 +115,7 @@ $10 from 2023 is equivalent to $9.76 in 2024 dollars.
 
 ```python
 # Calculate adjusted value
-adjusted_amount = inflation_calculator.calculate_adjusted_value(amount=13, original_year=1991, target_year=2021)
+adjusted_amount = inflation_calculator.adjusted_value(amount=13, original_year=1991, target_year=2021)
 print(f"${13} from {1991} is equivalent to ${adjusted_amount:.2f} in {2021} dollars.")
 ```
 Output:
