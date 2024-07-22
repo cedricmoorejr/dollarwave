@@ -86,7 +86,7 @@ Here are some screenshots of the GUI in action:
 
 - **Comparison Tab**
 
-![Comparison Tab](https://github.com/cedricmoorejr/dollarwave/blob/v2.0.2/dollarwave/assets/current_year_change_gui_img.png)
+![Comparison Tab](https://github.com/cedricmoorejr/dollarwave/blob/v2.0.2/dollarwave/assets/dollar_comp_gui_img.png)
 
 Alternatively, you can use the `inflation_calculator` instance directly:
 
