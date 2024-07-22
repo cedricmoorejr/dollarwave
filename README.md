@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/cedricmoorejr/dollarwave/main/dollarwave/assets/py_dollarwave_logo.png" alt="dollarwave Logo" width="700"/>
 </p>
 
-### dollarwave Library: Inflation Adjustment Using CPI Data
+### Dollarwave Library: Inflation Adjustment Using CPI Data
 
 The `dollarwave` module is a comprehensive library designed for adjusting the value of money across different years using Consumer Price Index (CPI) data. It offers extensive capabilities to handle and process CPI data, ensuring accurate inflation adjustments.
 
