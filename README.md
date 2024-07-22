@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cedricmoorejr/dollarwave/main/dollarwave/assets/py_dollarwave_logo.png" alt="Dollarwave Logo" width="700"/>
+  <img src="https://raw.githubusercontent.com/cedricmoorejr/dollarwave/main/dollarwave/assets/py_dollarwave_logo.png" alt="dollarwave Logo" width="700"/>
 </p>
 
 ### dollarwave Library: Inflation Adjustment Using CPI Data
