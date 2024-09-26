@@ -1,4 +1,3 @@
-New! Keyboard shortcuts … Drive keyboard shortcuts have been updated to give you first-letters navigation
 <p align="center">
   <img src="https://raw.githubusercontent.com/cedricmoorejr/dollarwave/main/dollarwave/assets/py_dollarwave_logo.png" alt="dollarwave Logo" width="700"/>
 </p>
